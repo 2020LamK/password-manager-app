@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    color names are not accurate and were left for the sake of time...
+    <color name="purple_200">#4CAF50</color>
+    <color name="purple_500">#8BC34A</color>
+    <color name="purple_700">#B7E680</color>
+    <color name="teal_200">#FFEE5A</color>
+    <color name="teal_700">#FFC107</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+</resources>
